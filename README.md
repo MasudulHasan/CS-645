@@ -12,3 +12,8 @@ The goal of this project is to create self signed certificate and embade the cer
   I have configured apache server in my local machine. I am using Ubuntu 18.04.02 as my local machine. This link has step by step instruction for installing and configuring apache server in ubuntu.
 
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+
+# step 2:
+  To create a self signed certificate we have to create a public key. This article gives step by step instruction on how to create self signed certificate.
+  https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-18-04
+  

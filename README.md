@@ -30,5 +30,9 @@ This acticle gives very nice instruction on how to add the self assigned certifi
 
 These code add the self signed certificate in Linux system trusted CA list. But for the browsers like Mozilla and Chrome isn't not sufficient. Web browsers like Firefox, Chromium, Google Chrome, Vivaldi and even e-mail clients like Mozilla Thunderbird don’t make use of the OS trust store, but use their own certificate trust store. These trust stores are files in the user directory, named “cert8.db” and “cert9.db” (for newer versions). 
 
-By running the script "
+By running the script "add_certificate_CA_list.sh" we can add the certificate to the trusted list for Chrome and Firefox. Here are the screenshots from Both firefox and chome's trusted CA list shown in the certificate list of the browser. 
 
+
+https://github.com/MasudulHasan/CS-645/blob/master/Screenshot%20from%202019-05-09%2022-57-49.png
+
+https://github.com/MasudulHasan/CS-645/blob/master/Screenshot%20from%202019-05-09%2022-58-37.png

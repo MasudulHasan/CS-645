@@ -33,6 +33,8 @@ These code add the self signed certificate in Linux system trusted CA list. But 
 By running the script "add_certificate_CA_list.sh" we can add the certificate to the trusted list for Chrome and Firefox. Here are the screenshots from Both firefox and chome's trusted CA list shown in the certificate list of the browser. 
 
 
-https://github.com/MasudulHasan/CS-645/blob/master/Screenshot%20from%202019-05-09%2022-57-49.png
+![alt text](https://github.com/MasudulHasan/CS-645/blob/master/Screenshot%20from%202019-05-09%2022-57-49.png)
 
-https://github.com/MasudulHasan/CS-645/blob/master/Screenshot%20from%202019-05-09%2022-58-37.png
+
+![alt text](https://github.com/MasudulHasan/CS-645/blob/master/Screenshot%20from%202019-05-09%2022-58-37.png)
+
